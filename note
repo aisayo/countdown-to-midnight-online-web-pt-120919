@@ -3,4 +3,4 @@
 number = 0 
 
 
-"the number is number" 
+"the number is #{number}" 
